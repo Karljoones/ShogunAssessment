@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  max-width: 75%;
+  margin: 8px auto;
+  font-size: 16px;
+  font-family: Roboto;
+}
+
+.CommentSection__container h1 {
+  text-align: center;
+  font-size: 32px;
+}
+
+.Comment__container {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 16px 0px;
+}
+
+.Comment__body {
+  margin: 4px 16px 8px 16px;
+}
+
+.Comment__author {
+  font-size: 12px;
+}
+
+.Comment__action_buttons {
+  margin-top: 16px;
+  display: inline;
+}
+
+.Comment__action_buttons a {
+  color:blue;
+  margin: 0 16px;
+  text-decoration: none;
+}
