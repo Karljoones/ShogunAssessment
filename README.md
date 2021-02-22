@@ -24,6 +24,9 @@ Options:
 
 Answers to question 4, 5, and 6 can be sent in reply to the email that you received.
 
+#### Deadline
+We understand that you may have another role - ideally, we would receive your solution within a week of receipt. If there is any reason why you can not complete the task within a week, please let us know and we can discuss. 
+
 Note: if a gist is used, there are multiple files that need to be submitted:
 - `App.js`
 - `CommentSection.js`
